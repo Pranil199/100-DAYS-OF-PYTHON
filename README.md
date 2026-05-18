@@ -1,4 +1,4 @@
-🐍 100 Days of Python
+🐍 100 Days of Python.
 Welcome to my 100 Days of Python challenge! This repository is a daily log of my journey to master Python, ranging from fundamental syntax to advanced applications in Data Science, Quantitative Finance, and Agentic AI.
 
 🎯 Goal
